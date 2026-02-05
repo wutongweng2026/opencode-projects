@@ -92,10 +92,9 @@ starter/
 
 本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
 
-## 📞 联系方式
+## 📞 项目地址
 
-- **开发者**: wutongweng2026
-- **项目地址**: https://github.com/wutongweng2026/opencode-projects
+- **GitHub Repository**: https://github.com/wutongweng2026/opencode-projects
 
 ## 🙏 致谢
 
