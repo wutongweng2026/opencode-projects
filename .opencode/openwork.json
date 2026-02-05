@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "workspace": {
+    "name": "starter",
+    "createdAt": 1770256298144,
+    "preset": "starter"
+  },
+  "authorizedRoots": [
+    "C:\\Users\\Administrator\\AppData\\Roaming\\com.differentai.openwork\\workspaces\\starter"
+  ]
+}
